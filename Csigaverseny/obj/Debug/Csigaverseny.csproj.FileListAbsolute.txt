@@ -1,0 +1,6 @@
+C:\Users\polga\source\repos\Csigaverseny\Csigaverseny\obj\Debug\Csigaverseny.csproj.AssemblyReference.cache
+C:\Users\polga\source\repos\Csigaverseny\Csigaverseny\obj\Debug\Csigaverseny.csproj.SuggestedBindingRedirects.cache
+C:\Users\polga\source\repos\Csigaverseny\Csigaverseny\obj\Debug\MainWindow.g.cs
+C:\Users\polga\source\repos\Csigaverseny\Csigaverseny\obj\Debug\App.g.cs
+C:\Users\polga\source\repos\Csigaverseny\Csigaverseny\obj\Debug\Csigaverseny_MarkupCompile.cache
+C:\Users\polga\source\repos\Csigaverseny\Csigaverseny\obj\Debug\Csigaverseny_MarkupCompile.lref
